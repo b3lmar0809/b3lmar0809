@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="assets/sea-torii-sunset-1920x1080.gif" width="720" alt="Sea Torii Sunset"/>
+  <img src="assets/sea-torii-sunset-1920x1080.gif" width="1080" alt="Sea Torii Sunset"/>
 </p>
